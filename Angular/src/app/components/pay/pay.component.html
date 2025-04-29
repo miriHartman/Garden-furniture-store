@@ -1,0 +1,56 @@
+
+<div class="container">
+  <!-- //תשלום באופן הראשון רק מציג את פרטי הקניה שנקלטו -->
+    <form>
+      <div class="row">
+        
+        <p>שלום ל- {{by.myBuy.UserName}} היקר/ה!</p>
+        <p>הסכום לתשלום לאחר ההנחות :  {{by.myBuy.AmountPay}}</p><br>
+          
+        
+      </div>
+      <div class="row">
+        <h4>Payment Details</h4>
+        <div class="input-group">
+          <input id="payment-method-card" type="radio" name="payment-method" value="card" checked="true"/>
+          <label for="payment-method-card"><span><i class="fa fa-cc-visa"></i>Credit Card</span></label>
+          <input id="payment-method-paypal" type="radio" name="payment-method" value="paypal"/>
+          <label for="payment-method-paypal"> <span><i class="fa fa-cc-paypal"></i>Paypal</span></label>
+        </div>
+        <div class="input-group input-group-icon">
+          <input type="text" placeholder="Card Number"/>
+          <div class="input-icon"><i class="fa fa-credit-card"></i></div>
+        </div>
+        <div class="col-half">
+          <div class="input-group input-group-icon">
+            <input type="text" placeholder="Card CVC"/>
+            <div class="input-icon"><i class="fa fa-user"></i></div>
+          </div>
+        </div>
+        <div class="col-half">
+          <div class="input-group">
+            <select>
+              <option>01 Jan</option>
+              <option>02 Jan</option>
+            </select>
+            <select>
+              <option>2025</option>
+              <option>2024</option>
+            </select>
+          </div>
+        </div>
+      </div>
+      <div class="row">
+        <h4>תנאים והגבלות</h4>
+        <div class="input-group">
+          <input id="terms" type="checkbox"/>
+          
+          <label for="terms">אני מקבל את התנאים וההגבלות להרשמה לשירות זה, ומאשר בזאת שקראתי את מדיניות הפרטיות
+           
+          </label>
+        <!-- אם הלקוח מאשר קריאת השרת מסמנת שולם על הקניה הנוכחית -->
+        <button class="custom-btn btn-7" (click)="confirm()"><span>  <i class="fa-regular fa-thumbs-up"></i>   אישור קניה</span></button>
+        </div>
+      </div>
+    </form>
+  </div>

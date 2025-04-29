@@ -1,0 +1,54 @@
+
+  
+
+
+<div class="container mt-3">
+  <br> 
+  <h3>מספר הפריטים שלך:({{bs.numProduct}})</h3>
+  <br> 
+  <table class="table table-hover">
+    <br>
+    
+    
+    <thead>
+       
+      <tr>
+        <th>  טל"ח-התמונה להמחשה בלבד!</th>
+        
+        <th>שם מוצר</th>
+        <th>תאור</th>
+        <th>כמות</th>
+        <th>מחיר</th>
+        <th>מחיר כולל</th>
+      </tr>
+    </thead>
+    <tbody>
+      <!-- //מעבר על מערך המוצרים שהוזמנו כדי להציגו -->
+        @for(f of bs.MyBasket;track f.pId){
+      <tr>
+        <td><img id="pic_in_invent" src="{{f.pPicture}}"></td>
+
+        
+        <td>{{f.pName}}</td>
+        <td>{{f.pDec}}</td>
+        <td>
+        <button (click)="minus(f)"><i class="fa-solid fa-minus"></i></button>
+        <p>{{f.pQuty}}</p>
+        <button (click)="plus(f)"><i class="fa-solid fa-plus"></i></button>
+    </td>
+    
+                <td>{{f.pPrice}}</td>
+                <td>{{f.pTotalPrice}}<i class="fa-solid fa-shekel-sign"></i></td>
+                
+                <td><app-button (newClick)="remove(f)" icon="fa-solid fa-trash"></app-button></td>
+      </tr>
+      
+    }
+   
+    </tbody>
+  </table>
+  <h2>  סה"כ לתשלום:  {{bs.totalost}}</h2>
+  <button class="btn" class="btn btn-primary" (click)="topay()" >לתשלום<i class="fa-regular fa-credit-card"></i></button>
+</div>
+
+

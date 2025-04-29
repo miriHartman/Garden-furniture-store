@@ -1,0 +1,68 @@
+
+
+<!-- //הקומפוננטה הנפתחת בצד לאפשרויות סינון וכד -->
+  <div class="area"></div>
+  
+  
+  <nav class="main-menu" >
+    <form (ngSubmit)="filter()">
+    <ul >
+        <p id="titel" >סינונים</p>
+      <li>
+        <a >
+          <i class="fa fa-home fa-2x"></i>
+          <i id="icon-company"></i>
+          <span class="nav-text">
+            קטגוריות
+            <select [(ngModel)]="p1.CategoryId" [ngModelOptions]="{standalone: true}">
+                <option></option>
+                <!-- //בחירת קטגוריה אותה רוצים אם בכלל -->
+              @for(c of cateSer.AllCat ; track c.Id){
+              <option [value]="c.Id" >{{c.Name}}</option>
+              }
+              </select>
+          </span>
+        </a>
+
+      </li>
+      <li class="has-subnav">
+        <a >
+          <i class="fa  fa-2x fa-solid fa-dollar-sign"></i>
+          <span class="nav-text">
+            מחיר
+            <!-- //בחירת מחיר מקסימלי  -->
+            <input type="number" name="price_1" [(ngModel)]="p1.Price" min="0" [ngModelOptions]="{standalone: true}">
+          </span>
+        </a>
+
+      </li>
+      <li class="has-subnav">
+        <a >
+          <i class=" fa  fa-2x  fa-solid fa-globe"></i>
+          <span class="nav-text">
+            <!-- //בחירת חברה מסויימת -->
+            חברות
+            <select [(ngModel)]="p1.CompanyId" [ngModelOptions]="{standalone: true}">
+                <option></option>
+                @for(c of copSer.AllCom ; track c.Id){
+                    <option  [value]="c.Id">{{c.Name}}</option>
+                    }
+                </select>
+          </span>
+        </a>
+        <span class="">
+<button id="but_submit"  type="submit" >התחל סינון<app-icons icon="fa-solid fa-filter"></app-icons></button>
+</span>
+    </ul>
+</form>
+<p>מיונים</p>
+<div class="bts">
+  <!-- //מיוים או מהנמוך לגבוה או להיפך -->
+  <button id="but_submit1" (click)="sortBig()" >מיין מהמחיר הגבוה לנמוך<br><app-icons icon="fa-solid fa-sort-amount-up"></app-icons>  </button>
+  <button id="but_submit1" (click)="sortSmall()" >מיין מהמחיר הנמוך לגבוה<br><app-icons icon="fa-solid fa-sort-amount-down-alt"></app-icons> </button>
+</div>
+  </nav>
+  
+
+
+

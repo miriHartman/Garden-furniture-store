@@ -1,0 +1,61 @@
+  
+
+
+
+<!-- הרשמה למערכת
+ כולל בדיקות תקינות וכו כמו בכניסה 
+ הפניה לקריאת שרת המוסיפה משתמש -->
+<div class="container mt-3">
+  <p>הכנס את הפרטים שלך המזוהים במערכת:</p>
+
+ 
+  <form (ngSubmit)="save()" #myForm="ngForm"> 
+    
+    <div class="form-floating mb-3 mt-3">
+        <input type="text" class="form-control" id="name" placeholder="Enter name" name="name" required [(ngModel)]="user1.Name" pattern="[א-ת ]*" minlength="2" [ngModelOptions]="{standalone: true}" #cname="ngModel">
+        <label for="name">name</label>
+        @if(cname.invalid && (cname.touched || cname.dirty))
+        {
+ <p [hidden]="!cname.errors!['pattern']">שם אינו תקין</p>
+ <p [hidden]="!cname.errors!['minlength']">שם  קצר מידי</p>
+ <p [hidden]="!cname.errors!['required']">חובה להכניס שם   </p>
+
+        }
+      </div>
+      <div class="form-floating mb-3 mt-3">
+        <input type="text" class="form-control" pattern="[A-Za-z0-9.-]+@[A-Za-z0-9._%-]+.[a-z]" required id="email" placeholder="Enter email" name="email" [(ngModel)]="user1.Email" [ngModelOptions]="{standalone: true}" #cemail="ngModel">
+        <label for="email">Email</label>
+        @if(cemail.invalid &&(cemail.touched || cemail.dirty))
+        {
+<p [hidden]="!cemail.errors!['pattern']">מייל אינו תקין</p>
+ <p [hidden]="!cemail.errors!['required']">חובה להכניס אימייל   </p>
+
+        }
+      </div>
+    <div class="form-floating mt-3 mb-3">
+      <input type="text" class="form-control" maxlength="10" minlength="7"  pattern="[0-9]*" id="phone" placeholder="Enter phone" name="phone" [(ngModel)]="user1.Phone" [ngModelOptions]="{standalone: true}" #cphone="ngModel">
+      <label for="phone">phone</label>
+      @if(cphone.invalid && (cphone.touched||cphone.dirty))
+      {
+
+        <p [hidden]="!cphone.errors!['pattern']">טלפון אינו תקין</p>
+        <p [hidden]="!cphone.errors!['minlength']">טלפון קצר מידי  </p>
+        <p [hidden]="!cphone.errors!['maxlength']">טלפון ארוך מידי  </p>
+
+      }
+    </div>
+    <div class="form-floating mt-3 mb-3">
+        <input type="date" class="form-control"  required id="birthday" placeholder="Enter birthday" name="Bearthday" [(ngModel)]="user1.Bearthday" #cbirthday="ngModel">
+        <label for="birthday">birthday</label>
+        @if(cbirthday.invalid && (cbirthday.touched || cbirthday.dirty))
+        {
+            <p [hidden]="!cbirthday.errors!['required']">חובה להכניס יום הולדת</p>
+
+        }
+      </div>
+      <!--אישור תשלום -->
+    <button type="submit"  class="btn btn-primary">Submit</button>
+  </form>
+</div>
+
+

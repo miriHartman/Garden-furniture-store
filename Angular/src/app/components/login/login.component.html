@@ -1,0 +1,42 @@
+
+
+
+
+<!-- כניסה למערכת אם הלקוח רשום -->
+
+<div class="container mt-3">
+  <p>הכנס את הפרטים שלך המזוהים במערכת:</p>
+
+ 
+  <form (ngSubmit)="toPay()" #myForm="ngForm"> <i class="fa-solid fa-globe"></i>
+    <div class="form-floating mb-3 mt-3">
+      <input type="text" class="form-control" pattern="[A-Za-z0-9.-]+@[A-Za-z0-9._%-]+.[a-z]" required id="email" placeholder="Enter email" name="email" [(ngModel)]="Email" [ngModelOptions]="{standalone: true}" #cemail="ngModel">
+      <label for="email">Email</label>
+      @if(cemail.invalid &&(cemail.touched || cemail.dirty))
+      {
+        <!-- בדיקות תקינות על נכונות המייל -->
+<p [hidden]="!cemail.errors!['pattern']">מייל אינו תקין</p>
+<p [hidden]="!cemail.errors!['required']">חובה להכניס אימייל   </p>
+
+      }
+    </div>
+    <div class="form-floating mb-3 mt-3">
+        <input type="text" class="form-control" id="name" placeholder="Enter name" name="name" required [(ngModel)]="Name" pattern="[א-ת ]*" minlength="2" [ngModelOptions]="{standalone: true}" #cname="ngModel">
+        <label for="name">name</label>
+        @if(cname.invalid && (cname.touched || cname.dirty))
+        {
+ <p [hidden]="!cname.errors!['pattern']">שם אינו תקין</p>
+ <p [hidden]="!cname.errors!['minlength']">שם  קצר מידי</p>
+ <p [hidden]="!cname.errors!['required']">חובה להכניס שם   </p>
+
+        }
+      
+      </div>
+      <div id="butons">
+    <button type="submit" class="btn" class="btn btn-primary" >כניסה</button>
+    <button class="fa-solid fa-user-plus"  class="btn btn-primary" (click)="register()">    לא מחובר עדין?   הרשם כאן <i class="fa-solid fa-user-plus"></i></button>
+  </div>
+  </form>
+</div>
+
+

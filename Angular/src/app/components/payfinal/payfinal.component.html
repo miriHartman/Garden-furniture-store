@@ -1,0 +1,62 @@
+
+<!-- קבלה ללקוח -->
+
+    <meta charset="utf-8">
+    <title>UI 1</title>
+
+   
+
+    <div class="paypal">
+
+      <div class="paypal__header">
+        <div class="paypal__logo-wrapper">
+        </div>
+
+        <div class="paypal__header-info">
+          <span class="paypal__date">{{by.myBuy.DateOfBuy|date:'dd-MM-yyyy'}}</span>
+          <!-- <span class="paypal__ref">0f-113</span> -->
+        </div>
+      </div>
+
+      <div class="paypal__subheader-wrapper">
+        <div class="paypal__subheader">
+          <h1 class="paypal__username">{{by.myBuy.UserName}}, Hi</h1>
+          <!-- <span class="paypal__help-text">You've purchased one ({{by.myBuy.}}) item from our store:</span> -->
+        </div>
+      </div>
+
+      <div class="paypal__cart">
+        <h2 class="paypal__cart-title">סה"כ שולם:</h2>
+
+        <ul class="paypal__cart-list">
+          <li class="paypal__cart-item">
+            <span class="paypal__index">{{by.myBuy.AmountPay}}</span>
+            <!-- <span class="paypal__item-name">$10 Balance</span> -->
+            <span class="paypal__item-price"></span>
+          </li>
+<!--
+          <li class="paypal__cart-item">
+            <span class="paypal__index">2</span>
+            <span class="paypal__item-name">Snickers Nike</span>
+            <span class="paypal__item-price">$125.00</span>
+          </li>
+
+          <li class="paypal__cart-item">
+            <span class="paypal__index">3</span>
+            <span class="paypal__item-name">All Stars</span>
+            <span class="paypal__item-price">$95.00</span>
+          </li>
+          -->
+          <li class="paypal__cart-item">
+            <span class="paypal__cart-total">תודה ולהתראות :)</span>
+            <span class="paypal__item-price"></span>
+          </li>
+        </ul>
+      </div>
+
+      <div class="paypal__footer">
+        <span class="paypal__date">{{by.myBuy.Remark}}</span>
+      </div>
+    </div>
+  
+

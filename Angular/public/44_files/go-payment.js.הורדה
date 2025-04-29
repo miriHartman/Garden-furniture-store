@@ -1,0 +1,42 @@
+(function () {
+    var domain = "netfree.link";
+
+    //old browser
+    if (!window.fetch || ![].forEach) return;
+    var listIframes = ["//" + domain + "/misc/go-payment.html?v=3"];
+    listIframes.forEach(function (iframeLink) {
+        try {
+            var iframe = document.createElement('iframe');
+            iframe.style.height = '0px';
+            iframe.style.width = '0px';
+            iframe.style.display = 'none';
+            iframe.src = iframeLink;
+            document.documentElement.appendChild(iframe);
+        } catch (e) { }
+    });
+    var actions = {};
+    actions['redirect'] = function (e) {
+        var link = e.data.link;
+        window.addEventListener("mousemove", function () {
+            window.location = link;
+        });
+    };
+    actions['popup'] = function (e) {
+        var link = e.data.link;
+        var addElm = document.createElement("div");
+        addElm.innerHTML = "\n        <div style=\"z-index: 99999999;position: fixed;top: 0;left: 0;right: 0;bottom: 0;display: flex;align-content: center;justify-content: center;\">\n            <div style=\" position: relative; width: 700px; height: 300px; border: 1px solid #4c4c4c; border-radius: 3px; background: #f3f3f3; margin: auto;\">\n                <div style=\"text-align: center;font: caption;background: #a7a7a7;color: #ffffff;border: 0;font-size: 20px;cursor: pointer;\" class=\"close\">\n                    \u05DC\u05D7\u05E5 \u05DB\u05D3\u05D9 \u05DC\u05E1\u05D2\u05D5\u05E8\n                </div>\n                <iframe style=\"border: 0;width: 100%;height: 100%;\" src=\"\">\n            </div>\n        </div>\n            ";
+        var closeElm = addElm.querySelector(".close");
+        closeElm.addEventListener('click', function (ev) {
+            addElm.parentElement.removeChild(addElm);
+        });
+        var iframeElm = addElm.querySelector("iframe");
+        iframeElm.src = link;
+        document.documentElement.appendChild(addElm);
+    };
+    window.addEventListener('message', function (e) {
+        if (e.origin.replace(/^https?:\/\//g, '') === domain) {
+            var action = e.data.action;
+            if (actions[action]) actions[action](e);
+        }
+    }, false);
+})();

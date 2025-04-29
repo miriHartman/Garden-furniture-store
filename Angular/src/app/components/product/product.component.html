@@ -1,0 +1,23 @@
+    
+   <!-- קומפוננטת הצגת כל המוצרים בכרטיסים -->
+  <div class="page-content"> 
+    @for(c of pc.AllP;track c.Id){ 
+      <div id="cardId" class="card" [ngStyle]="{'background-image': 'url(' + (c.Picture || 'default-image.jpg') + ')'}">
+        <div class="content">
+          <h2 class="title">{{c.Name}}</h2>
+          <p class="copy">ש"ח {{c.Price}}</p>
+          <p>{{c.Description}}</p>
+          <button appAfterBuy [ngClass]="c.Amount != 0 ? 'btn' : ''" (click)="moreDetails(c)">לפרטים נוספים</button>
+          <button appAfterBuy [ngClass]="c.Amount != 0 ? 'btn' : 'btn'" id="btn2" [disabled]="c.Amount<=0" (click)="addCart(c)"><app-icons class="fa-solid fa-cart-plus"></app-icons></button>
+          
+
+        </div>
+      </div>
+  } 
+</div> 
+<!-- אפשרויות הסינון של המוצרים מופעים רקבקומפוננטה הזו -->
+  <app-filters></app-filters>
+
+
+  
+

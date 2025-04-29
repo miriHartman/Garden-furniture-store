@@ -1,0 +1,33 @@
+#pic_in_invent{
+    width: 30vh;
+    height: 30vh;
+}
+
+.fa-solid.fa-globe::after::after{
+    content: "\f0ac";
+    font-family: "Font Awesome 6 Free";
+    font-weight: 900;}
+   
+    /* Green */
+.success {
+    border-color: #afbab6;
+    color: rgb(150, 245, 242);
+  }
+  
+  .success:hover {
+    background-color: #abf4f0;
+    color: white;
+  }
+  .btn {
+    border: 2px solid black;
+    background-color: rgb(195, 245, 239);
+    width: 130vh;
+    color: black;
+    padding: 14px 28px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  /* body{
+    
+  } */
+  
