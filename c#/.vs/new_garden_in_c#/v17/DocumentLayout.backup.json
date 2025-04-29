@@ -1,0 +1,1178 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\This User\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ED36C31C-7142-4729-9B86-A1A9E8EB9876}|Dal_Repository\\Dal_Repository.csproj|c:\\users\\this user\\documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\dal_repository\\func_buydetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED36C31C-7142-4729-9B86-A1A9E8EB9876}|Dal_Repository\\Dal_Repository.csproj|solutionrelative:dal_repository\\func_buydetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED36C31C-7142-4729-9B86-A1A9E8EB9876}|Dal_Repository\\Dal_Repository.csproj|c:\\users\\this user\\documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\dal_repository\\func_buy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED36C31C-7142-4729-9B86-A1A9E8EB9876}|Dal_Repository\\Dal_Repository.csproj|solutionrelative:dal_repository\\func_buy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED36C31C-7142-4729-9B86-A1A9E8EB9876}|Dal_Repository\\Dal_Repository.csproj|c:\\users\\this user\\documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\dal_repository\\converts\\to_dto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED36C31C-7142-4729-9B86-A1A9E8EB9876}|Dal_Repository\\Dal_Repository.csproj|solutionrelative:dal_repository\\converts\\to_dto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED36C31C-7142-4729-9B86-A1A9E8EB9876}|Dal_Repository\\Dal_Repository.csproj|c:\\users\\this user\\documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\dal_repository\\converts\\to_microsoft_classes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED36C31C-7142-4729-9B86-A1A9E8EB9876}|Dal_Repository\\Dal_Repository.csproj|solutionrelative:dal_repository\\converts\\to_microsoft_classes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F11AD3F-D221-4C80-8380-E7B3FFDAE08A}|Bll_Services\\Bll_Services.csproj|c:\\users\\this user\\documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\bll_services\\bll_s_buy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F11AD3F-D221-4C80-8380-E7B3FFDAE08A}|Bll_Services\\Bll_Services.csproj|solutionrelative:bll_services\\bll_s_buy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BB6BBE1-45E8-47DE-9E71-5D0536C2E2A6}|DTO_Common\\DTO_Common.csproj|c:\\users\\this user\\documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\dto_common\\classes\\basket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BB6BBE1-45E8-47DE-9E71-5D0536C2E2A6}|DTO_Common\\DTO_Common.csproj|solutionrelative:dto_common\\classes\\basket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BB6BBE1-45E8-47DE-9E71-5D0536C2E2A6}|DTO_Common\\DTO_Common.csproj|c:\\users\\this user\\documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\dto_common\\classes\\buy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BB6BBE1-45E8-47DE-9E71-5D0536C2E2A6}|DTO_Common\\DTO_Common.csproj|solutionrelative:dto_common\\classes\\buy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED36C31C-7142-4729-9B86-A1A9E8EB9876}|Dal_Repository\\Dal_Repository.csproj|c:\\users\\this user\\documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\dal_repository\\func_category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED36C31C-7142-4729-9B86-A1A9E8EB9876}|Dal_Repository\\Dal_Repository.csproj|solutionrelative:dal_repository\\func_category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F11AD3F-D221-4C80-8380-E7B3FFDAE08A}|Bll_Services\\Bll_Services.csproj|c:\\users\\this user\\documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\bll_services\\bll_s_buydetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F11AD3F-D221-4C80-8380-E7B3FFDAE08A}|Bll_Services\\Bll_Services.csproj|solutionrelative:bll_services\\bll_s_buydetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E9ADF86-A555-467E-8A18-EA6284713195}|WebAppi\\WebAppi.csproj|c:\\users\\this user\\documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\webappi\\controllers\\buycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E9ADF86-A555-467E-8A18-EA6284713195}|WebAppi\\WebAppi.csproj|solutionrelative:webappi\\controllers\\buycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BB6BBE1-45E8-47DE-9E71-5D0536C2E2A6}|DTO_Common\\DTO_Common.csproj|c:\\users\\this user\\documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\dto_common\\classes\\tosend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BB6BBE1-45E8-47DE-9E71-5D0536C2E2A6}|DTO_Common\\DTO_Common.csproj|solutionrelative:dto_common\\classes\\tosend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BB6BBE1-45E8-47DE-9E71-5D0536C2E2A6}|DTO_Common\\DTO_Common.csproj|c:\\users\\this user\\documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\dto_common\\classes\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BB6BBE1-45E8-47DE-9E71-5D0536C2E2A6}|DTO_Common\\DTO_Common.csproj|solutionrelative:dto_common\\classes\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED36C31C-7142-4729-9B86-A1A9E8EB9876}|Dal_Repository\\Dal_Repository.csproj|c:\\users\\this user\\documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\dal_repository\\classes\\buy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED36C31C-7142-4729-9B86-A1A9E8EB9876}|Dal_Repository\\Dal_Repository.csproj|solutionrelative:dal_repository\\classes\\buy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED36C31C-7142-4729-9B86-A1A9E8EB9876}|Dal_Repository\\Dal_Repository.csproj|c:\\users\\this user\\documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\dal_repository\\classes\\buy_detailes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED36C31C-7142-4729-9B86-A1A9E8EB9876}|Dal_Repository\\Dal_Repository.csproj|solutionrelative:dal_repository\\classes\\buy_detailes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E9ADF86-A555-467E-8A18-EA6284713195}|WebAppi\\WebAppi.csproj|c:\\users\\this user\\documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\webappi\\controllers\\buy_detailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E9ADF86-A555-467E-8A18-EA6284713195}|WebAppi\\WebAppi.csproj|solutionrelative:webappi\\controllers\\buy_detailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED36C31C-7142-4729-9B86-A1A9E8EB9876}|Dal_Repository\\Dal_Repository.csproj|c:\\users\\this user\\documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\dal_repository\\func_user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED36C31C-7142-4729-9B86-A1A9E8EB9876}|Dal_Repository\\Dal_Repository.csproj|solutionrelative:dal_repository\\func_user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E616AF53-E281-4B8D-88B3-CBF60DCDF101}|IDallRepository\\IDallRepository.csproj|c:\\users\\this user\\documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\idallrepository\\idal_buy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E616AF53-E281-4B8D-88B3-CBF60DCDF101}|IDallRepository\\IDallRepository.csproj|solutionrelative:idallrepository\\idal_buy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E616AF53-E281-4B8D-88B3-CBF60DCDF101}|IDallRepository\\IDallRepository.csproj|c:\\users\\this user\\documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\idallrepository\\idal_user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E616AF53-E281-4B8D-88B3-CBF60DCDF101}|IDallRepository\\IDallRepository.csproj|solutionrelative:idallrepository\\idal_user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BB6BBE1-45E8-47DE-9E71-5D0536C2E2A6}|DTO_Common\\DTO_Common.csproj|c:\\users\\this user\\documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\dto_common\\classes\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BB6BBE1-45E8-47DE-9E71-5D0536C2E2A6}|DTO_Common\\DTO_Common.csproj|solutionrelative:dto_common\\classes\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BB6BBE1-45E8-47DE-9E71-5D0536C2E2A6}|DTO_Common\\DTO_Common.csproj|c:\\users\\this user\\documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\dto_common\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BB6BBE1-45E8-47DE-9E71-5D0536C2E2A6}|DTO_Common\\DTO_Common.csproj|solutionrelative:dto_common\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F11AD3F-D221-4C80-8380-E7B3FFDAE08A}|Bll_Services\\Bll_Services.csproj|c:\\users\\this user\\documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\bll_services\\bll_s_user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F11AD3F-D221-4C80-8380-E7B3FFDAE08A}|Bll_Services\\Bll_Services.csproj|solutionrelative:bll_services\\bll_s_user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40702658-570D-4F5C-8836-0B4CC77BCBCE}|IBll_Services\\IBll_Services.csproj|c:\\users\\this user\\documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\ibll_services\\ibll_buy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40702658-570D-4F5C-8836-0B4CC77BCBCE}|IBll_Services\\IBll_Services.csproj|solutionrelative:ibll_services\\ibll_buy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E9ADF86-A555-467E-8A18-EA6284713195}|WebAppi\\WebAppi.csproj|c:\\users\\this user\\documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\webappi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E9ADF86-A555-467E-8A18-EA6284713195}|WebAppi\\WebAppi.csproj|solutionrelative:webappi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E9ADF86-A555-467E-8A18-EA6284713195}|WebAppi\\WebAppi.csproj|c:\\users\\this user\\documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\webappi\\controllers\\companycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E9ADF86-A555-467E-8A18-EA6284713195}|WebAppi\\WebAppi.csproj|solutionrelative:webappi\\controllers\\companycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E616AF53-E281-4B8D-88B3-CBF60DCDF101}|IDallRepository\\IDallRepository.csproj|c:\\users\\this user\\documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\idallrepository\\idal_bydetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E616AF53-E281-4B8D-88B3-CBF60DCDF101}|IDallRepository\\IDallRepository.csproj|solutionrelative:idallrepository\\idal_bydetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BB6BBE1-45E8-47DE-9E71-5D0536C2E2A6}|DTO_Common\\DTO_Common.csproj|c:\\users\\this user\\documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\dto_common\\classes\\buy_detailes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BB6BBE1-45E8-47DE-9E71-5D0536C2E2A6}|DTO_Common\\DTO_Common.csproj|solutionrelative:dto_common\\classes\\buy_detailes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40702658-570D-4F5C-8836-0B4CC77BCBCE}|IBll_Services\\IBll_Services.csproj|c:\\users\\this user\\documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\ibll_services\\ibll_buydetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40702658-570D-4F5C-8836-0B4CC77BCBCE}|IBll_Services\\IBll_Services.csproj|solutionrelative:ibll_services\\ibll_buydetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40702658-570D-4F5C-8836-0B4CC77BCBCE}|IBll_Services\\IBll_Services.csproj|c:\\users\\this user\\documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\ibll_services\\ibll_user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40702658-570D-4F5C-8836-0B4CC77BCBCE}|IBll_Services\\IBll_Services.csproj|solutionrelative:ibll_services\\ibll_user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED36C31C-7142-4729-9B86-A1A9E8EB9876}|Dal_Repository\\Dal_Repository.csproj|c:\\users\\this user\\documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\dal_repository\\classes\\gardencontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED36C31C-7142-4729-9B86-A1A9E8EB9876}|Dal_Repository\\Dal_Repository.csproj|solutionrelative:dal_repository\\classes\\gardencontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E616AF53-E281-4B8D-88B3-CBF60DCDF101}|IDallRepository\\IDallRepository.csproj|c:\\users\\this user\\documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\idallrepository\\idal_product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E616AF53-E281-4B8D-88B3-CBF60DCDF101}|IDallRepository\\IDallRepository.csproj|solutionrelative:idallrepository\\idal_product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40702658-570D-4F5C-8836-0B4CC77BCBCE}|IBll_Services\\IBll_Services.csproj|c:\\users\\this user\\documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\ibll_services\\ibll_services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{40702658-570D-4F5C-8836-0B4CC77BCBCE}|IBll_Services\\IBll_Services.csproj|solutionrelative:ibll_services\\ibll_services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\This User\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\Dal_Repository\\Migrations\\20250123123407_nm1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Dal_Repository\\Migrations\\20250123123407_nm1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\This User\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\Dal_Repository\\Migrations\\20250123123136_m66.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Dal_Repository\\Migrations\\20250123123136_m66.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\This User\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\Dal_Repository\\Migrations\\20250123122516_mn1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Dal_Repository\\Migrations\\20250123122516_mn1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED36C31C-7142-4729-9B86-A1A9E8EB9876}|Dal_Repository\\Dal_Repository.csproj|c:\\users\\this user\\documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\dal_repository\\classes\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED36C31C-7142-4729-9B86-A1A9E8EB9876}|Dal_Repository\\Dal_Repository.csproj|solutionrelative:dal_repository\\classes\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\This User\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\Dal_Repository\\Migrations\\20250123121350_v1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Dal_Repository\\Migrations\\20250123121350_v1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\This User\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\Dal_Repository\\Migrations\\20250123120509_mnew2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Dal_Repository\\Migrations\\20250123120509_mnew2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\This User\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\Dal_Repository\\Migrations\\20250123115649_mnew1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Dal_Repository\\Migrations\\20250123115649_mnew1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\This User\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\Dal_Repository\\Migrations\\20250123115158_m50.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Dal_Repository\\Migrations\\20250123115158_m50.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40702658-570D-4F5C-8836-0B4CC77BCBCE}|IBll_Services\\IBll_Services.csproj|c:\\users\\this user\\documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\ibll_services\\ibll_product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40702658-570D-4F5C-8836-0B4CC77BCBCE}|IBll_Services\\IBll_Services.csproj|solutionrelative:ibll_services\\ibll_product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40702658-570D-4F5C-8836-0B4CC77BCBCE}|IBll_Services\\IBll_Services.csproj|c:\\users\\this user\\documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\ibll_services\\ibll_company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40702658-570D-4F5C-8836-0B4CC77BCBCE}|IBll_Services\\IBll_Services.csproj|solutionrelative:ibll_services\\ibll_company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40702658-570D-4F5C-8836-0B4CC77BCBCE}|IBll_Services\\IBll_Services.csproj|c:\\users\\this user\\documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\ibll_services\\ibll_category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40702658-570D-4F5C-8836-0B4CC77BCBCE}|IBll_Services\\IBll_Services.csproj|solutionrelative:ibll_services\\ibll_category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F11AD3F-D221-4C80-8380-E7B3FFDAE08A}|Bll_Services\\Bll_Services.csproj|c:\\users\\this user\\documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\bll_services\\bll_services.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F11AD3F-D221-4C80-8380-E7B3FFDAE08A}|Bll_Services\\Bll_Services.csproj|solutionrelative:bll_services\\bll_services.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F11AD3F-D221-4C80-8380-E7B3FFDAE08A}|Bll_Services\\Bll_Services.csproj|c:\\users\\this user\\documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\bll_services\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F11AD3F-D221-4C80-8380-E7B3FFDAE08A}|Bll_Services\\Bll_Services.csproj|solutionrelative:bll_services\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F11AD3F-D221-4C80-8380-E7B3FFDAE08A}|Bll_Services\\Bll_Services.csproj|c:\\users\\this user\\documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\bll_services\\bll_s_product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F11AD3F-D221-4C80-8380-E7B3FFDAE08A}|Bll_Services\\Bll_Services.csproj|solutionrelative:bll_services\\bll_s_product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F11AD3F-D221-4C80-8380-E7B3FFDAE08A}|Bll_Services\\Bll_Services.csproj|c:\\users\\this user\\documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\bll_services\\bll_s_company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F11AD3F-D221-4C80-8380-E7B3FFDAE08A}|Bll_Services\\Bll_Services.csproj|solutionrelative:bll_services\\bll_s_company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F11AD3F-D221-4C80-8380-E7B3FFDAE08A}|Bll_Services\\Bll_Services.csproj|c:\\users\\this user\\documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\bll_services\\bll_s_category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F11AD3F-D221-4C80-8380-E7B3FFDAE08A}|Bll_Services\\Bll_Services.csproj|solutionrelative:bll_services\\bll_s_category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E9ADF86-A555-467E-8A18-EA6284713195}|WebAppi\\WebAppi.csproj|c:\\users\\this user\\documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\webappi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E9ADF86-A555-467E-8A18-EA6284713195}|WebAppi\\WebAppi.csproj|solutionrelative:webappi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E9ADF86-A555-467E-8A18-EA6284713195}|WebAppi\\WebAppi.csproj|c:\\users\\this user\\documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\webappi\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E9ADF86-A555-467E-8A18-EA6284713195}|WebAppi\\WebAppi.csproj|solutionrelative:webappi\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED36C31C-7142-4729-9B86-A1A9E8EB9876}|Dal_Repository\\Dal_Repository.csproj|c:\\users\\this user\\documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\dal_repository\\func_company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED36C31C-7142-4729-9B86-A1A9E8EB9876}|Dal_Repository\\Dal_Repository.csproj|solutionrelative:dal_repository\\func_company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED36C31C-7142-4729-9B86-A1A9E8EB9876}|Dal_Repository\\Dal_Repository.csproj|c:\\users\\this user\\documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\dal_repository\\func_product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED36C31C-7142-4729-9B86-A1A9E8EB9876}|Dal_Repository\\Dal_Repository.csproj|solutionrelative:dal_repository\\func_product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40702658-570D-4F5C-8836-0B4CC77BCBCE}|IBll_Services\\IBll_Services.csproj|c:\\users\\this user\\documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\ibll_services\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40702658-570D-4F5C-8836-0B4CC77BCBCE}|IBll_Services\\IBll_Services.csproj|solutionrelative:ibll_services\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E616AF53-E281-4B8D-88B3-CBF60DCDF101}|IDallRepository\\IDallRepository.csproj|c:\\users\\this user\\documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\idallrepository\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E616AF53-E281-4B8D-88B3-CBF60DCDF101}|IDallRepository\\IDallRepository.csproj|solutionrelative:idallrepository\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E616AF53-E281-4B8D-88B3-CBF60DCDF101}|IDallRepository\\IDallRepository.csproj|c:\\users\\this user\\documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\idallrepository\\idal_category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E616AF53-E281-4B8D-88B3-CBF60DCDF101}|IDallRepository\\IDallRepository.csproj|solutionrelative:idallrepository\\idal_category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E616AF53-E281-4B8D-88B3-CBF60DCDF101}|IDallRepository\\IDallRepository.csproj|c:\\users\\this user\\documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\idallrepository\\idal_company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E616AF53-E281-4B8D-88B3-CBF60DCDF101}|IDallRepository\\IDallRepository.csproj|solutionrelative:idallrepository\\idal_company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E9ADF86-A555-467E-8A18-EA6284713195}|WebAppi\\WebAppi.csproj|c:\\users\\this user\\documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\webappi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E9ADF86-A555-467E-8A18-EA6284713195}|WebAppi\\WebAppi.csproj|solutionrelative:webappi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BB6BBE1-45E8-47DE-9E71-5D0536C2E2A6}|DTO_Common\\DTO_Common.csproj|c:\\users\\this user\\documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\dto_common\\classes\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BB6BBE1-45E8-47DE-9E71-5D0536C2E2A6}|DTO_Common\\DTO_Common.csproj|solutionrelative:dto_common\\classes\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BB6BBE1-45E8-47DE-9E71-5D0536C2E2A6}|DTO_Common\\DTO_Common.csproj|c:\\users\\this user\\documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\dto_common\\classes\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BB6BBE1-45E8-47DE-9E71-5D0536C2E2A6}|DTO_Common\\DTO_Common.csproj|solutionrelative:dto_common\\classes\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED36C31C-7142-4729-9B86-A1A9E8EB9876}|Dal_Repository\\Dal_Repository.csproj|c:\\users\\this user\\documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\dal_repository\\classes\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED36C31C-7142-4729-9B86-A1A9E8EB9876}|Dal_Repository\\Dal_Repository.csproj|solutionrelative:dal_repository\\classes\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED36C31C-7142-4729-9B86-A1A9E8EB9876}|Dal_Repository\\Dal_Repository.csproj|c:\\users\\this user\\documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\dal_repository\\classes\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED36C31C-7142-4729-9B86-A1A9E8EB9876}|Dal_Repository\\Dal_Repository.csproj|solutionrelative:dal_repository\\classes\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED36C31C-7142-4729-9B86-A1A9E8EB9876}|Dal_Repository\\Dal_Repository.csproj|c:\\users\\this user\\documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\dal_repository\\classes\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED36C31C-7142-4729-9B86-A1A9E8EB9876}|Dal_Repository\\Dal_Repository.csproj|solutionrelative:dal_repository\\classes\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BB6BBE1-45E8-47DE-9E71-5D0536C2E2A6}|DTO_Common\\DTO_Common.csproj|c:\\users\\this user\\documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\dto_common\\dto_common.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0BB6BBE1-45E8-47DE-9E71-5D0536C2E2A6}|DTO_Common\\DTO_Common.csproj|solutionrelative:dto_common\\dto_common.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\angular\\Angular\\\u05D0\u05D9\u05D9\u05E7\u05D5\u05E0\u05D9\u05DD\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F11AD3F-D221-4C80-8380-E7B3FFDAE08A}|Bll_Services\\Bll_Services.csproj|c:\\users\\this user\\documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\bll_services\\bll_services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6F11AD3F-D221-4C80-8380-E7B3FFDAE08A}|Bll_Services\\Bll_Services.csproj|solutionrelative:bll_services\\bll_services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED36C31C-7142-4729-9B86-A1A9E8EB9876}|Dal_Repository\\Dal_Repository.csproj|c:\\users\\this user\\documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\dal_repository\\dal_repository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{ED36C31C-7142-4729-9B86-A1A9E8EB9876}|Dal_Repository\\Dal_Repository.csproj|solutionrelative:dal_repository\\dal_repository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E9ADF86-A555-467E-8A18-EA6284713195}|WebAppi\\WebAppi.csproj|c:\\users\\this user\\documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\webappi\\webappi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3E9ADF86-A555-467E-8A18-EA6284713195}|WebAppi\\WebAppi.csproj|solutionrelative:webappi\\webappi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\This User\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\not good\\Dal_repository\\classes\\gardenContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E9ADF86-A555-467E-8A18-EA6284713195}|WebAppi\\WebAppi.csproj|c:\\users\\this user\\documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\webappi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3E9ADF86-A555-467E-8A18-EA6284713195}|WebAppi\\WebAppi.csproj|solutionrelative:webappi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED36C31C-7142-4729-9B86-A1A9E8EB9876}|Dal_Repository\\Dal_Repository.csproj|c:\\users\\this user\\documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\dal_repository\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED36C31C-7142-4729-9B86-A1A9E8EB9876}|Dal_Repository\\Dal_Repository.csproj|solutionrelative:dal_repository\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED36C31C-7142-4729-9B86-A1A9E8EB9876}|Dal_Repository\\Dal_Repository.csproj|c:\\users\\this user\\documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\dal_repository\\migrations\\20250126171411_n3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED36C31C-7142-4729-9B86-A1A9E8EB9876}|Dal_Repository\\Dal_Repository.csproj|solutionrelative:dal_repository\\migrations\\20250126171411_n3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED36C31C-7142-4729-9B86-A1A9E8EB9876}|Dal_Repository\\Dal_Repository.csproj|c:\\users\\this user\\documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\dal_repository\\migrations\\20250123184520_n2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED36C31C-7142-4729-9B86-A1A9E8EB9876}|Dal_Repository\\Dal_Repository.csproj|solutionrelative:dal_repository\\migrations\\20250123184520_n2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED36C31C-7142-4729-9B86-A1A9E8EB9876}|Dal_Repository\\Dal_Repository.csproj|c:\\users\\this user\\documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\dal_repository\\migrations\\20250123123508_n1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED36C31C-7142-4729-9B86-A1A9E8EB9876}|Dal_Repository\\Dal_Repository.csproj|solutionrelative:dal_repository\\migrations\\20250123123508_n1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 39,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Bll_s_buydetails.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\Bll_Services\\Bll_s_buydetails.cs",
+              "RelativeDocumentMoniker": "Bll_Services\\Bll_s_buydetails.cs",
+              "ToolTip": "C:\\Users\\This User\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\Bll_Services\\Bll_s_buydetails.cs",
+              "RelativeToolTip": "Bll_Services\\Bll_s_buydetails.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T16:44:21.177Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{605322a2-17ae-43f4-b60f-766556e46c87}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "20250126171411_n3.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\Dal_Repository\\Migrations\\20250126171411_n3.cs",
+              "RelativeDocumentMoniker": "Dal_Repository\\Migrations\\20250126171411_n3.cs",
+              "ToolTip": "C:\\Users\\This User\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\Dal_Repository\\Migrations\\20250126171411_n3.cs",
+              "RelativeToolTip": "Dal_Repository\\Migrations\\20250126171411_n3.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T18:55:12.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "20250123184520_n2.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\Dal_Repository\\Migrations\\20250123184520_n2.cs",
+              "RelativeDocumentMoniker": "Dal_Repository\\Migrations\\20250123184520_n2.cs",
+              "ToolTip": "C:\\Users\\This User\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\Dal_Repository\\Migrations\\20250123184520_n2.cs",
+              "RelativeToolTip": "Dal_Repository\\Migrations\\20250123184520_n2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T18:55:12.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IBll_Services.csproj",
+              "DocumentMoniker": "C:\\Users\\This User\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\IBll_Services\\IBll_Services.csproj",
+              "RelativeDocumentMoniker": "IBll_Services\\IBll_Services.csproj",
+              "ToolTip": "C:\\Users\\This User\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\IBll_Services\\IBll_Services.csproj",
+              "RelativeToolTip": "IBll_Services\\IBll_Services.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-23T14:21:24.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "20250123123508_n1.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\Dal_Repository\\Migrations\\20250123123508_n1.cs",
+              "RelativeDocumentMoniker": "Dal_Repository\\Migrations\\20250123123508_n1.cs",
+              "ToolTip": "C:\\Users\\This User\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\Dal_Repository\\Migrations\\20250123123508_n1.cs",
+              "RelativeToolTip": "Dal_Repository\\Migrations\\20250123123508_n1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T18:55:12.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "20250123123407_nm1.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\Dal_Repository\\Migrations\\20250123123407_nm1.cs",
+              "RelativeDocumentMoniker": "Dal_Repository\\Migrations\\20250123123407_nm1.cs",
+              "ToolTip": "C:\\Users\\This User\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\Dal_Repository\\Migrations\\20250123123407_nm1.cs",
+              "RelativeToolTip": "Dal_Repository\\Migrations\\20250123123407_nm1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T12:34:08.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "20250123123136_m66.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\Dal_Repository\\Migrations\\20250123123136_m66.cs",
+              "RelativeDocumentMoniker": "Dal_Repository\\Migrations\\20250123123136_m66.cs",
+              "ToolTip": "C:\\Users\\This User\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\Dal_Repository\\Migrations\\20250123123136_m66.cs",
+              "RelativeToolTip": "Dal_Repository\\Migrations\\20250123123136_m66.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T12:31:36.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "20250123122516_mn1.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\Dal_Repository\\Migrations\\20250123122516_mn1.cs",
+              "RelativeDocumentMoniker": "Dal_Repository\\Migrations\\20250123122516_mn1.cs",
+              "ToolTip": "C:\\Users\\This User\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\Dal_Repository\\Migrations\\20250123122516_mn1.cs",
+              "RelativeToolTip": "Dal_Repository\\Migrations\\20250123122516_mn1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T12:25:17.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "20250123121350_v1.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\Dal_Repository\\Migrations\\20250123121350_v1.cs",
+              "RelativeDocumentMoniker": "Dal_Repository\\Migrations\\20250123121350_v1.cs",
+              "ToolTip": "C:\\Users\\This User\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\Dal_Repository\\Migrations\\20250123121350_v1.cs",
+              "RelativeToolTip": "Dal_Repository\\Migrations\\20250123121350_v1.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAQwEQAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T12:13:50.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "20250123120509_mnew2.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\Dal_Repository\\Migrations\\20250123120509_mnew2.cs",
+              "RelativeDocumentMoniker": "Dal_Repository\\Migrations\\20250123120509_mnew2.cs",
+              "ToolTip": "C:\\Users\\This User\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\Dal_Repository\\Migrations\\20250123120509_mnew2.cs",
+              "RelativeToolTip": "Dal_Repository\\Migrations\\20250123120509_mnew2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T12:05:09.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "20250123115649_mnew1.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\Dal_Repository\\Migrations\\20250123115649_mnew1.cs",
+              "RelativeDocumentMoniker": "Dal_Repository\\Migrations\\20250123115649_mnew1.cs",
+              "ToolTip": "C:\\Users\\This User\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\Dal_Repository\\Migrations\\20250123115649_mnew1.cs",
+              "RelativeToolTip": "Dal_Repository\\Migrations\\20250123115649_mnew1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T11:56:50.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "20250123115158_m50.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\Dal_Repository\\Migrations\\20250123115158_m50.cs",
+              "RelativeDocumentMoniker": "Dal_Repository\\Migrations\\20250123115158_m50.cs",
+              "ToolTip": "C:\\Users\\This User\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\Dal_Repository\\Migrations\\20250123115158_m50.cs",
+              "RelativeToolTip": "Dal_Repository\\Migrations\\20250123115158_m50.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T11:51:58.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ToSend.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\DTO_Common\\classes\\ToSend.cs",
+              "RelativeDocumentMoniker": "DTO_Common\\classes\\ToSend.cs",
+              "ToolTip": "C:\\Users\\This User\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\DTO_Common\\classes\\ToSend.cs",
+              "RelativeToolTip": "DTO_Common\\classes\\ToSend.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwA0AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T21:04:51.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Basket.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\DTO_Common\\classes\\Basket.cs",
+              "RelativeDocumentMoniker": "DTO_Common\\classes\\Basket.cs",
+              "ToolTip": "C:\\Users\\This User\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\DTO_Common\\classes\\Basket.cs",
+              "RelativeToolTip": "DTO_Common\\classes\\Basket.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAgAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T21:00:12.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "package.json",
+              "DocumentMoniker": "E:\\angular\\Angular\\\u05D0\u05D9\u05D9\u05E7\u05D5\u05E0\u05D9\u05DD\\package.json",
+              "ToolTip": "E:\\angular\\Angular\\\u05D0\u05D9\u05D9\u05E7\u05D5\u05E0\u05D9\u05DD\\package.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-14T17:54:27.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "userController.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\WebAppi\\Controllers\\userController.cs",
+              "RelativeDocumentMoniker": "WebAppi\\Controllers\\userController.cs",
+              "ToolTip": "C:\\Users\\This User\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\WebAppi\\Controllers\\userController.cs",
+              "RelativeToolTip": "WebAppi\\Controllers\\userController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T17:40:06.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "productController.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\WebAppi\\Controllers\\productController.cs",
+              "RelativeDocumentMoniker": "WebAppi\\Controllers\\productController.cs",
+              "ToolTip": "C:\\Users\\This User\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\WebAppi\\Controllers\\productController.cs",
+              "RelativeToolTip": "WebAppi\\Controllers\\productController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T17:39:48.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "companyController.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\WebAppi\\Controllers\\companyController.cs",
+              "RelativeDocumentMoniker": "WebAppi\\Controllers\\companyController.cs",
+              "ToolTip": "C:\\Users\\This User\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\WebAppi\\Controllers\\companyController.cs",
+              "RelativeToolTip": "WebAppi\\Controllers\\companyController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T17:39:22.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "categoryController.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\WebAppi\\Controllers\\categoryController.cs",
+              "RelativeDocumentMoniker": "WebAppi\\Controllers\\categoryController.cs",
+              "ToolTip": "C:\\Users\\This User\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\WebAppi\\Controllers\\categoryController.cs",
+              "RelativeToolTip": "WebAppi\\Controllers\\categoryController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAiwA4AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T17:38:57.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Buy_detailsController.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\WebAppi\\Controllers\\Buy_detailsController.cs",
+              "RelativeDocumentMoniker": "WebAppi\\Controllers\\Buy_detailsController.cs",
+              "ToolTip": "C:\\Users\\This User\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\WebAppi\\Controllers\\Buy_detailsController.cs",
+              "RelativeToolTip": "WebAppi\\Controllers\\Buy_detailsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T17:37:44.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "buyController.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\WebAppi\\Controllers\\buyController.cs",
+              "RelativeDocumentMoniker": "WebAppi\\Controllers\\buyController.cs",
+              "ToolTip": "C:\\Users\\This User\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\WebAppi\\Controllers\\buyController.cs",
+              "RelativeToolTip": "WebAppi\\Controllers\\buyController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBMAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T17:36:58.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Bll_s_user.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\Bll_Services\\Bll_s_user.cs",
+              "RelativeDocumentMoniker": "Bll_Services\\Bll_s_user.cs",
+              "ToolTip": "C:\\Users\\This User\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\Bll_Services\\Bll_s_user.cs",
+              "RelativeToolTip": "Bll_Services\\Bll_s_user.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAmwA4AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T16:49:23.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Bll_s_product.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\Bll_Services\\Bll_s_product.cs",
+              "RelativeDocumentMoniker": "Bll_Services\\Bll_s_product.cs",
+              "ToolTip": "C:\\Users\\This User\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\Bll_Services\\Bll_s_product.cs",
+              "RelativeToolTip": "Bll_Services\\Bll_s_product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T16:48:35.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Bll_s_category.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\Bll_Services\\Bll_s_category.cs",
+              "RelativeDocumentMoniker": "Bll_Services\\Bll_s_category.cs",
+              "ToolTip": "C:\\Users\\This User\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\Bll_Services\\Bll_s_category.cs",
+              "RelativeToolTip": "Bll_Services\\Bll_s_category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T16:45:47.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Bll_s_buy.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\Bll_Services\\Bll_s_buy.cs",
+              "RelativeDocumentMoniker": "Bll_Services\\Bll_s_buy.cs",
+              "ToolTip": "C:\\Users\\This User\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\Bll_Services\\Bll_s_buy.cs",
+              "RelativeToolTip": "Bll_Services\\Bll_s_buy.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAwAgAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T16:37:07.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IBll_user.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\IBll_Services\\IBll_user.cs",
+              "RelativeDocumentMoniker": "IBll_Services\\IBll_user.cs",
+              "ToolTip": "C:\\Users\\This User\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\IBll_Services\\IBll_user.cs",
+              "RelativeToolTip": "IBll_Services\\IBll_user.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T16:29:26.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "IBll_product.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\IBll_Services\\IBll_product.cs",
+              "RelativeDocumentMoniker": "IBll_Services\\IBll_product.cs",
+              "ToolTip": "C:\\Users\\This User\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\IBll_Services\\IBll_product.cs",
+              "RelativeToolTip": "IBll_Services\\IBll_product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T16:29:11.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "IBll_company.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\IBll_Services\\IBll_company.cs",
+              "RelativeDocumentMoniker": "IBll_Services\\IBll_company.cs",
+              "ToolTip": "C:\\Users\\This User\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\IBll_Services\\IBll_company.cs",
+              "RelativeToolTip": "IBll_Services\\IBll_company.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T16:28:42.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "IBll_category.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\IBll_Services\\IBll_category.cs",
+              "RelativeDocumentMoniker": "IBll_Services\\IBll_category.cs",
+              "ToolTip": "C:\\Users\\This User\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\IBll_Services\\IBll_category.cs",
+              "RelativeToolTip": "IBll_Services\\IBll_category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T16:28:07.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IBll_buydetails.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\IBll_Services\\IBll_buydetails.cs",
+              "RelativeDocumentMoniker": "IBll_Services\\IBll_buydetails.cs",
+              "ToolTip": "C:\\Users\\This User\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\IBll_Services\\IBll_buydetails.cs",
+              "RelativeToolTip": "IBll_Services\\IBll_buydetails.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T16:27:10.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IBll_buy.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\IBll_Services\\IBll_buy.cs",
+              "RelativeDocumentMoniker": "IBll_Services\\IBll_buy.cs",
+              "ToolTip": "C:\\Users\\This User\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\IBll_Services\\IBll_buy.cs",
+              "RelativeToolTip": "IBll_Services\\IBll_buy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAwAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T16:26:23.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IDal_user.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\IDallRepository\\IDal_user.cs",
+              "RelativeDocumentMoniker": "IDallRepository\\IDal_user.cs",
+              "ToolTip": "C:\\Users\\This User\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\IDallRepository\\IDal_user.cs",
+              "RelativeToolTip": "IDallRepository\\IDal_user.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAlwAsAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T16:14:06.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "IDal_company.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\IDallRepository\\IDal_company.cs",
+              "RelativeDocumentMoniker": "IDallRepository\\IDal_company.cs",
+              "ToolTip": "C:\\Users\\This User\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\IDallRepository\\IDal_company.cs",
+              "RelativeToolTip": "IDallRepository\\IDal_company.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T16:11:32.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IDal_buy.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\IDallRepository\\IDal_buy.cs",
+              "RelativeDocumentMoniker": "IDallRepository\\IDal_buy.cs",
+              "ToolTip": "C:\\Users\\This User\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\IDallRepository\\IDal_buy.cs",
+              "RelativeToolTip": "IDallRepository\\IDal_buy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T16:10:57.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IDal_bydetails.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\IDallRepository\\IDal_bydetails.cs",
+              "RelativeDocumentMoniker": "IDallRepository\\IDal_bydetails.cs",
+              "ToolTip": "C:\\Users\\This User\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\IDallRepository\\IDal_bydetails.cs",
+              "RelativeToolTip": "IDallRepository\\IDal_bydetails.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T16:10:18.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "IDal_category.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\IDallRepository\\IDal_category.cs",
+              "RelativeDocumentMoniker": "IDallRepository\\IDal_category.cs",
+              "ToolTip": "C:\\Users\\This User\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\IDallRepository\\IDal_category.cs",
+              "RelativeToolTip": "IDallRepository\\IDal_category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T16:09:11.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "func_product.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\Dal_Repository\\func_product.cs",
+              "RelativeDocumentMoniker": "Dal_Repository\\func_product.cs",
+              "ToolTip": "C:\\Users\\This User\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\Dal_Repository\\func_product.cs",
+              "RelativeToolTip": "Dal_Repository\\func_product.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBIAAACcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T16:02:35.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "func_buydetails.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\Dal_Repository\\func_buydetails.cs",
+              "RelativeDocumentMoniker": "Dal_Repository\\func_buydetails.cs",
+              "ToolTip": "C:\\Users\\This User\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\Dal_Repository\\func_buydetails.cs",
+              "RelativeToolTip": "Dal_Repository\\func_buydetails.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAgwBQAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T16:02:11.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "func_buy.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\Dal_Repository\\func_buy.cs",
+              "RelativeDocumentMoniker": "Dal_Repository\\func_buy.cs",
+              "ToolTip": "C:\\Users\\This User\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\Dal_Repository\\func_buy.cs",
+              "RelativeToolTip": "Dal_Repository\\func_buy.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAIwAsAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T16:01:27.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "func_user.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\Dal_Repository\\func_user.cs",
+              "RelativeDocumentMoniker": "Dal_Repository\\func_user.cs",
+              "ToolTip": "C:\\Users\\This User\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\Dal_Repository\\func_user.cs",
+              "RelativeToolTip": "Dal_Repository\\func_user.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAjwCEAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T16:01:07.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "func_company.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\Dal_Repository\\func_company.cs",
+              "RelativeDocumentMoniker": "Dal_Repository\\func_company.cs",
+              "ToolTip": "C:\\Users\\This User\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\Dal_Repository\\func_company.cs",
+              "RelativeToolTip": "Dal_Repository\\func_company.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwA4AAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T16:00:48.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IDal_product.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\IDallRepository\\IDal_product.cs",
+              "RelativeDocumentMoniker": "IDallRepository\\IDal_product.cs",
+              "ToolTip": "C:\\Users\\This User\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\IDallRepository\\IDal_product.cs",
+              "RelativeToolTip": "IDallRepository\\IDal_product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T15:32:56.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\IBll_Services\\Class1.cs",
+              "RelativeDocumentMoniker": "IBll_Services\\Class1.cs",
+              "ToolTip": "C:\\Users\\This User\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\IBll_Services\\Class1.cs",
+              "RelativeToolTip": "IBll_Services\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T15:26:31.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\IDallRepository\\Class1.cs",
+              "RelativeDocumentMoniker": "IDallRepository\\Class1.cs",
+              "ToolTip": "C:\\Users\\This User\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\IDallRepository\\Class1.cs",
+              "RelativeToolTip": "IDallRepository\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T15:25:45.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\WebAppi\\Program.cs",
+              "RelativeDocumentMoniker": "WebAppi\\Program.cs",
+              "ToolTip": "C:\\Users\\This User\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\WebAppi\\Program.cs",
+              "RelativeToolTip": "WebAppi\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T18:30:25.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "bll_services.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\Bll_Services\\bll_services.cs",
+              "RelativeDocumentMoniker": "Bll_Services\\bll_services.cs",
+              "ToolTip": "C:\\Users\\This User\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\Bll_Services\\bll_services.cs",
+              "RelativeToolTip": "Bll_Services\\bll_services.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T14:32:01.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Bll_s_company.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\Bll_Services\\Bll_s_company.cs",
+              "RelativeDocumentMoniker": "Bll_Services\\Bll_s_company.cs",
+              "ToolTip": "C:\\Users\\This User\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\Bll_Services\\Bll_s_company.cs",
+              "RelativeToolTip": "Bll_Services\\Bll_s_company.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T22:41:43.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "func_category.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\Dal_Repository\\func_category.cs",
+              "RelativeDocumentMoniker": "Dal_Repository\\func_category.cs",
+              "ToolTip": "C:\\Users\\This User\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\Dal_Repository\\func_category.cs",
+              "RelativeToolTip": "Dal_Repository\\func_category.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAUwAoAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T22:04:02.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\DTO_Common\\classes\\User.cs",
+              "RelativeDocumentMoniker": "DTO_Common\\classes\\User.cs",
+              "ToolTip": "C:\\Users\\This User\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\DTO_Common\\classes\\User.cs",
+              "RelativeToolTip": "DTO_Common\\classes\\User.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAcwAoAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T21:23:29.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\DTO_Common\\classes\\Product.cs",
+              "RelativeDocumentMoniker": "DTO_Common\\classes\\Product.cs",
+              "ToolTip": "C:\\Users\\This User\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\DTO_Common\\classes\\Product.cs",
+              "RelativeToolTip": "DTO_Common\\classes\\Product.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAzwAgAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T21:23:24.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "Company.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\DTO_Common\\classes\\Company.cs",
+              "RelativeDocumentMoniker": "DTO_Common\\classes\\Company.cs",
+              "ToolTip": "C:\\Users\\This User\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\DTO_Common\\classes\\Company.cs",
+              "RelativeToolTip": "DTO_Common\\classes\\Company.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T21:23:20.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\DTO_Common\\classes\\Category.cs",
+              "RelativeDocumentMoniker": "DTO_Common\\classes\\Category.cs",
+              "ToolTip": "C:\\Users\\This User\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\DTO_Common\\classes\\Category.cs",
+              "RelativeToolTip": "DTO_Common\\classes\\Category.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T21:23:15.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Buy_Detailes.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\DTO_Common\\classes\\Buy_Detailes.cs",
+              "RelativeDocumentMoniker": "DTO_Common\\classes\\Buy_Detailes.cs",
+              "ToolTip": "C:\\Users\\This User\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\DTO_Common\\classes\\Buy_Detailes.cs",
+              "RelativeToolTip": "DTO_Common\\classes\\Buy_Detailes.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAmwBUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T21:22:59.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Buy.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\DTO_Common\\classes\\Buy.cs",
+              "RelativeDocumentMoniker": "DTO_Common\\classes\\Buy.cs",
+              "ToolTip": "C:\\Users\\This User\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\DTO_Common\\classes\\Buy.cs",
+              "RelativeToolTip": "DTO_Common\\classes\\Buy.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAUwBEAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T21:22:06.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "DTO_Common.csproj",
+              "DocumentMoniker": "C:\\Users\\This User\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\DTO_Common\\DTO_Common.csproj",
+              "RelativeDocumentMoniker": "DTO_Common\\DTO_Common.csproj",
+              "ToolTip": "C:\\Users\\This User\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\DTO_Common\\DTO_Common.csproj",
+              "RelativeToolTip": "DTO_Common\\DTO_Common.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-08T21:01:13.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "To_Microsoft_Classes.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\Dal_Repository\\converts\\To_Microsoft_Classes.cs",
+              "RelativeDocumentMoniker": "Dal_Repository\\converts\\To_Microsoft_Classes.cs",
+              "ToolTip": "C:\\Users\\This User\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\Dal_Repository\\converts\\To_Microsoft_Classes.cs",
+              "RelativeToolTip": "Dal_Repository\\converts\\To_Microsoft_Classes.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAgwDcAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T20:54:54.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "To_DTO.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\Dal_Repository\\converts\\To_DTO.cs",
+              "RelativeDocumentMoniker": "Dal_Repository\\converts\\To_DTO.cs",
+              "ToolTip": "C:\\Users\\This User\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\Dal_Repository\\converts\\To_DTO.cs",
+              "RelativeToolTip": "Dal_Repository\\converts\\To_DTO.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAAAAkAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T20:54:16.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "gardenContext.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\not good\\Dal_repository\\classes\\gardenContext.cs",
+              "RelativeDocumentMoniker": "..\\..\\not good\\Dal_repository\\classes\\gardenContext.cs",
+              "ToolTip": "C:\\Users\\This User\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\not good\\Dal_repository\\classes\\gardenContext.cs",
+              "RelativeToolTip": "..\\..\\not good\\Dal_repository\\classes\\gardenContext.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T20:23:14.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\This User\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\WebAppi\\appsettings.json",
+              "RelativeDocumentMoniker": "WebAppi\\appsettings.json",
+              "ToolTip": "C:\\Users\\This User\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\WebAppi\\appsettings.json",
+              "RelativeToolTip": "WebAppi\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-08T20:22:23.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\Dal_Repository\\classes\\User.cs",
+              "RelativeDocumentMoniker": "Dal_Repository\\classes\\User.cs",
+              "ToolTip": "C:\\Users\\This User\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\Dal_Repository\\classes\\User.cs",
+              "RelativeToolTip": "Dal_Repository\\classes\\User.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAsAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T20:18:48.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\Dal_Repository\\classes\\Product.cs",
+              "RelativeDocumentMoniker": "Dal_Repository\\classes\\Product.cs",
+              "ToolTip": "C:\\Users\\This User\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\Dal_Repository\\classes\\Product.cs",
+              "RelativeToolTip": "Dal_Repository\\classes\\Product.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwAsAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T20:18:32.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "Company.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\Dal_Repository\\classes\\Company.cs",
+              "RelativeDocumentMoniker": "Dal_Repository\\classes\\Company.cs",
+              "ToolTip": "C:\\Users\\This User\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\Dal_Repository\\classes\\Company.cs",
+              "RelativeToolTip": "Dal_Repository\\classes\\Company.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAuwAsAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T20:13:18.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Buy_Detailes.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\Dal_Repository\\classes\\Buy_Detailes.cs",
+              "RelativeDocumentMoniker": "Dal_Repository\\classes\\Buy_Detailes.cs",
+              "ToolTip": "C:\\Users\\This User\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\Dal_Repository\\classes\\Buy_Detailes.cs",
+              "RelativeToolTip": "Dal_Repository\\classes\\Buy_Detailes.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABEAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T20:16:27.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\Dal_Repository\\classes\\Category.cs",
+              "RelativeDocumentMoniker": "Dal_Repository\\classes\\Category.cs",
+              "ToolTip": "C:\\Users\\This User\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\Dal_Repository\\classes\\Category.cs",
+              "RelativeToolTip": "Dal_Repository\\classes\\Category.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAADwvwwAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T20:15:43.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Buy.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\Dal_Repository\\classes\\Buy.cs",
+              "RelativeDocumentMoniker": "Dal_Repository\\classes\\Buy.cs",
+              "ToolTip": "C:\\Users\\This User\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\Dal_Repository\\classes\\Buy.cs",
+              "RelativeToolTip": "Dal_Repository\\classes\\Buy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T20:14:43.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "gardenContext.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\Dal_Repository\\classes\\gardenContext.cs",
+              "RelativeDocumentMoniker": "Dal_Repository\\classes\\gardenContext.cs",
+              "ToolTip": "C:\\Users\\This User\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\Dal_Repository\\classes\\gardenContext.cs",
+              "RelativeToolTip": "Dal_Repository\\classes\\gardenContext.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAArwBQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T20:01:09.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "WebAppi.csproj",
+              "DocumentMoniker": "C:\\Users\\This User\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\WebAppi\\WebAppi.csproj",
+              "RelativeDocumentMoniker": "WebAppi\\WebAppi.csproj",
+              "ToolTip": "C:\\Users\\This User\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\WebAppi\\WebAppi.csproj",
+              "RelativeToolTip": "WebAppi\\WebAppi.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-08T19:27:40.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "Bll_Services.csproj",
+              "DocumentMoniker": "C:\\Users\\This User\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\Bll_Services\\Bll_Services.csproj",
+              "RelativeDocumentMoniker": "Bll_Services\\Bll_Services.csproj",
+              "ToolTip": "C:\\Users\\This User\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\Bll_Services\\Bll_Services.csproj",
+              "RelativeToolTip": "Bll_Services\\Bll_Services.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-08T19:27:29.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "Dal_Repository.csproj",
+              "DocumentMoniker": "C:\\Users\\This User\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\Dal_Repository\\Dal_Repository.csproj",
+              "RelativeDocumentMoniker": "Dal_Repository\\Dal_Repository.csproj",
+              "ToolTip": "C:\\Users\\This User\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\Dal_Repository\\Dal_Repository.csproj",
+              "RelativeToolTip": "Dal_Repository\\Dal_Repository.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-08T19:27:11.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\Bll_Services\\Class1.cs",
+              "RelativeDocumentMoniker": "Bll_Services\\Class1.cs",
+              "ToolTip": "C:\\Users\\This User\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\Bll_Services\\Class1.cs",
+              "RelativeToolTip": "Bll_Services\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T19:27:01.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\Dal_Repository\\Class1.cs",
+              "RelativeDocumentMoniker": "Dal_Repository\\Class1.cs",
+              "ToolTip": "C:\\Users\\This User\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\Dal_Repository\\Class1.cs",
+              "RelativeToolTip": "Dal_Repository\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T19:26:28.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\DTO_Common\\Class1.cs",
+              "RelativeDocumentMoniker": "DTO_Common\\Class1.cs",
+              "ToolTip": "C:\\Users\\This User\\Documents\\\u05D4\u05E0\u05D3\u05E1\u05D0\u05D9\u05DD\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\project angular\\c# new\\new_garden_in_c#\\DTO_Common\\Class1.cs",
+              "RelativeToolTip": "DTO_Common\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T19:25:36.033Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
